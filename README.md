@@ -4,7 +4,7 @@
     <br/>
     ⚡️
     <br />
-    react-tailwindcss-starter
+    nextjs-typescript-tailwindcss-starter
     <br />
     <br />
     <br />
